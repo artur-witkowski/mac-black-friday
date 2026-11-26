@@ -1,0 +1,21 @@
+{
+  "name": "Lunille",
+  "url": "https://lunille.com/pricing?ref=gh-mac-black-friday",
+  "platforms": [
+    "macOS"
+  ],
+  "category": "launch",
+  "description": "A notch app for Mac built around Luni, a little moon behind the camera that reacts to your music, AirPods and the weather, with music, calls and a file tray.",
+  "discount": "Launch price $9.99",
+  "prices": [
+    {
+      "plan": "Up to 3 Macs",
+      "after": 9.99
+    }
+  ],
+  "terms": "No code, applied at checkout. One-time for up to 3 Macs, updates included. $14.99 from Dec 1. 14-day free trial, no account. macOS 14+, universal.",
+  "ends": "2026-11-30",
+  "maker": "Lunille",
+  "makerUrl": "https://lunille.com",
+  "icon": "https://lunille.com/assets/icon-512.png"
+}
