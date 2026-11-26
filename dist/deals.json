@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T09:59:16.603Z",
+  "updatedAt": "2026-11-26T10:18:54.259Z",
   "categories": [
     {
       "id": "ai",
@@ -1893,6 +1893,38 @@
       "maker": "OrsoLabs",
       "makerUrl": "https://orsolabs.dev",
       "addedAt": "2026-11-25T17:18:05.000Z"
+    },
+    {
+      "id": "fileminutes",
+      "name": "FileMinutes",
+      "url": "https://www.fileminutes.com/?utm_source=mac-black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "Up to 60% off",
+      "description": "A Better Way to Find Files on Your Mac.",
+      "prices": [
+        {
+          "plan": "Pro",
+          "before": 10,
+          "after": 6
+        },
+        {
+          "plan": "Pro 3x",
+          "before": 21,
+          "after": 9
+        },
+        {
+          "plan": "Pro 5x",
+          "before": 30,
+          "after": 12
+        }
+      ],
+      "starts": "2026-11-14",
+      "ends": "2026-11-30",
+      "terms": "Lifetime licenses. Code auto-applied at checkout. Free 14-day trial.",
+      "addedAt": "2026-11-26T10:18:46.000Z"
     },
     {
       "id": "fileoctopus",
