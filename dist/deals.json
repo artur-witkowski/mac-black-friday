@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T05:14:31.177Z",
+  "updatedAt": "2026-11-26T09:59:16.603Z",
   "categories": [
     {
       "id": "ai",
@@ -2905,6 +2905,29 @@
       "maker": "Loudwell",
       "makerUrl": "https://loudwell.app/",
       "addedAt": "2026-11-25T15:10:59.000Z"
+    },
+    {
+      "id": "lunille",
+      "name": "Lunille",
+      "url": "https://lunille.com/pricing?ref=gh-mac-black-friday",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "launch",
+      "description": "A notch app for Mac built around Luni, a little moon behind the camera that reacts to your music, AirPods and the weather, with music, calls and a file tray.",
+      "discount": "Launch price $9.99",
+      "prices": [
+        {
+          "plan": "Up to 3 Macs",
+          "after": 9.99
+        }
+      ],
+      "terms": "No code, applied at checkout. One-time for up to 3 Macs, updates included. $14.99 from Dec 1. 14-day free trial, no account. macOS 14+, universal.",
+      "ends": "2026-11-30",
+      "maker": "Lunille",
+      "makerUrl": "https://lunille.com",
+      "icon": "https://lunille.com/assets/icon-512.png",
+      "addedAt": "2026-11-26T09:59:06.000Z"
     },
     {
       "id": "mac-4-breakfast",
